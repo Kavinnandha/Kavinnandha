@@ -129,7 +129,7 @@ Jenkins CI pipeline for a Node app, with an Nginx deploy companion.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kavinnandha/Kavinnandha/output/github-snake-dark.svg" alt="contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/Kavinnandha/Kavinnandha/refs/heads/output/github-snake-dark.svg" alt="contribution snake animation"/>
 </p>
 
 <!-- Animated wave footer -->
