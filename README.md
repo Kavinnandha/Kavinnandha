@@ -139,7 +139,7 @@ Jenkins CI pipeline for a Node app, with an Nginx deploy companion.
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kavinnandha&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinnandha&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinnandha&exclude_repo=moodle-lms,siet,AWS,lms&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
 </p>
 
 <p align="center">
