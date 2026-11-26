@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Kavinnandha">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+backends+that+scale+%F0%9F%9A%80;Keeping+production+boring+and+reliable+%F0%9F%9B%A1%EF%B8%8F;Node.js+%C2%B7+FastAPI+%C2%B7+Docker+%C2%B7+Kubernetes+%C2%B7+AWS;Open+to+SDE+%2F+SRE+roles+%E2%80%94+2027+batch" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+solutions+that+scale+%F0%9F%9A%80;Keeping+production+boring+and+reliable+%F0%9F%9B%A1%EF%B8%8F;Node.js+%C2%B7+FastAPI+%C2%B7+Docker+%C2%B7+Kubernetes+%C2%B7+AWS;Open+to+SDE+%2F+SRE+roles" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 ```yaml
 name:      Kavin Nandha M K
 role:      Software Engineer · Site Reliability Engineer
-education: B.E. CSE (Cyber Security) — 2027 batch
+education: B.E. CSE (Cyber Security)
 focus:     [backend systems, reliability, CI/CD, Kubernetes, cloud]
 status:    open to SDE / SRE internships and full-time roles
 ```
@@ -53,14 +53,32 @@ status:    open to SDE / SRE internships and full-time roles
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,githubactions,jenkins,nginx,linux,cloudflare&theme=dark"/>
 </p>
 
-<p align="center"><b>Frontend & Mobile</b></p>
+<p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark"/>
 </p>
 
 ## 🔭 Featured projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏭 [MicroLearning](https://www.micro-learning.app/)
+Shop-floor training on WhatsApp in 15 Indian languages: turns factory SOPs into short video lessons, grades voice-note answers with AI and schedules spaced-repetition reviews. Samsung Solve for Tomorrow 2026 national finalist. [Live ↗](https://www.micro-learning.app/)
+
+`FastAPI` `Next.js` `WhatsApp Cloud API` `LLMs`
+
+</td>
+<td width="50%" valign="top">
+
+### 📹 [V-Meet](https://vmeet.codegarage.dev)
+Paid video meetings: hosts set a ticket price, meetings are recorded and captioned live, and ticket holders can rewatch with transcripts. [Live ↗](https://vmeet.codegarage.dev)
+
+`React` `Express` `MongoDB` `LiveKit` `Razorpay` `Stripe`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
